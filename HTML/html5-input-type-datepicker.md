@@ -1,5 +1,4 @@
 # HTML5 Input Type For Datetime Picker
----
 
 [Source](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/datetime-local)
 
