@@ -6,7 +6,7 @@ ReactDOM is a React library that gives us access to the DOM. We can use the `ren
 
 ## Example
 
-This is an example of [JSX](https://reactjs.org/docs/introducing-jsx.html). Which is the syntax used in react to create HTML. The syntax looks similiar to HTML.
+This is an example of [JSX](https://reactjs.org/docs/introducing-jsx.html). Which is the syntax used in react to create HTML. The syntax looks similar to HTML.
 
 ```JavaScript
 const page = (
