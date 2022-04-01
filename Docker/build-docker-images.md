@@ -2,7 +2,7 @@
 
 [Source](https://docs.docker.com/engine/reference/commandline/build/)
 
-```
+```bash
 docker build -t docker-app-image .
 ```
 
