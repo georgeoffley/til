@@ -45,7 +45,7 @@ function Page() {
 }
 ```
 
-Finally, we can assemble them in a React app using the `<>` syntax. Similar to HTML.
+Finally, we can assemble them in a React app using the `<>` syntax. Similar to HTML. The brackets will "call" an instance of our components
 
 ```javascript
 ReactDOM.render(
