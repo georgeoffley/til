@@ -20,7 +20,7 @@ function App() {
 export default App;
 ```
 
-So in the code above you see all the components which make upthe entirety of the app are all organized here for us.
+So in the code above you see all the components which make up the entirety of the app are all organized here for us.
 
 ```javascript
 // Index.js
