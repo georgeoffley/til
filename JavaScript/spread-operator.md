@@ -9,15 +9,38 @@ A little similiar to the [`map()`](https://www.geeksforgeeks.org/python-map-func
 ### Example
 
 ```javascript
-function sum(x, y, z) {
-  return x + y + z;
-}
+let numbers = [1,2,3];
 
-const numbers = [1, 2, 3];
+console.log(...numbers);
+// prints: 1,  2,  3
+```
 
-console.log(sum(...numbers));
-// expected output: 6
+Another Example
 
-console.log(sum.apply(null, numbers));
-// expected output: 6
+```javascript
+const users: User[] = [];
+
+let james: User = {
+  name: 'James',
+  id: 1
+};
+
+let jimbo: User = {
+  name: 'Jimbo',
+  id: 2
+};
+
+users.push(james);
+users.push(jimbo);
+
+console.log(...users);
+
+//prints: 
+// {
+//   "name": "James",
+//   "id": 1
+// },  {
+//   "name": "Jimbo",
+//   "id": 2
+// } 
 ```
