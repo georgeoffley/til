@@ -8,7 +8,7 @@ Run the `cat` command to see the contents of files. So for example:
 cat ~/.gnupg/gpg.conf
 ```
 
-You can also uise this to create and append stuff to files.
+You can also use this to create and append stuff to files.
 
 __Create new file__
 ```bash
