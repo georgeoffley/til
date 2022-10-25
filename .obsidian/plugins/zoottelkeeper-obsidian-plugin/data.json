@@ -9,7 +9,7 @@
   "folderEmoji": ":card_index_dividers:",
   "fileEmoji": ":page_facing_up:",
   "enableEmojis": false,
-  "foldersExcluded": "Templates/\nimages/",
+  "foldersExcluded": "Templates/\nimages/\n.obsidian",
   "foldersIncluded": "",
   "sortOrder": "asc",
   "addSquareBrackets": true,
