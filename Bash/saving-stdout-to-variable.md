@@ -9,3 +9,5 @@ You have to use `$()` which is an expression for command and tells bash to take 
 So the above will run the curl command, take the output of that command, and save it to the `COMMAND` variable. 
 
 That variable is accessed using this syntax: `${COMMAND}`.
+
+#bash

@@ -7,3 +7,5 @@ This command will give us an output describing all the AWS RDS instances.
 ```bash
 aws rds describe-db-instances
 ```
+
+#aws

@@ -17,3 +17,5 @@ The `\!` is a __NOT__ condition and the `-executable` is looking for the executa
 The `!` by itself is a not condition but the backslash (`\`) is an escape character.
 
 In the above instance the fill command for the file I was looking for would have been something like `find ./inhere -size 1033c \! -executable -readable` since I was looking for a file that was human readable, not executable, and 1033 bytes in size.
+
+#bash

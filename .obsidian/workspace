@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "0f7b53f15237e247",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7af6261b903a98b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bash/checking-website-latency-and-recording.md",
+            "mode": "preview",
+            "backlinks": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38c31f62718cc853",
+    "type": "split",
+    "children": [
+      {
+        "id": "08c3ebdccc941121",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caad4a5e50fdb569",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "23982055f4be7f42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#bash",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4fddf81769a45843",
+    "type": "split",
+    "children": [
+      {
+        "id": "57f156acd1537ae1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c92dd7ddd3765161",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "69620c32da576fe4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237,
+    "collapsed": true
+  },
+  "active": "b7af6261b903a98b",
+  "lastOpenFiles": [
+    "Bash/checking-website-latency-and-recording.md",
+    "Bash/checking-package-links.md",
+    "AWS/check-rds-instances-aws-cli.md",
+    "Bash/referencing-files-with-spaces-in-name.md",
+    "Bash/finding-text-inside-a-text-file.md",
+    "Bash/finding-files-by-permission-type.md",
+    "Git/git-stash-workflow.md",
+    "Git/git-rebasing.md",
+    "Git/cherry-picking.md",
+    "Docker/multi-build-stages.md"
+  ]
+}

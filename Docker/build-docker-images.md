@@ -12,3 +12,5 @@ docker build -t docker-app-image .
 - `-t` - tag option for creating tag name
 - `docker-app-image` - tag name
 - `.` - directory where the dockerfile is located, in this instance we're running the command in the current directory
+
+#Docker 

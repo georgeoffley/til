@@ -1,0 +1,8 @@
+{
+  "pinned": [
+    "app:go-back",
+    "app:go-forward",
+    "editor:save-file",
+    "markdown:toggle-preview"
+  ]
+}

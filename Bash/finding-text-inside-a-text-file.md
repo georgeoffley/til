@@ -11,3 +11,5 @@ grep "millionth*" ./data.txt
 ```
 
 I used the text pattern `"millionth*"` to find the next words in that line and then passed in the file to look into it.
+
+#bash

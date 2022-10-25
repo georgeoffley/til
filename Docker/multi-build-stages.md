@@ -11,7 +11,7 @@ FROM node:16.13-alpine as base
 ARG version
 WORKDIR /app
 COPY package.json /app/
-#COPY yarn.lock /app/
+[[COPY]] yarn.lock /app/
 RUN yarn install
 ENV PATH /app/node_modules/.bin:$PATH
 COPY . /app/
@@ -44,3 +44,5 @@ You can utilize these build stages using the following syntax in your `docker-co
 ```
 
 Using the `build` block with the `context`  we point to the dir to look for `Dockerfile` and then using the `target` key we point Docker to the correct build stage in the `Dockerfile`.
+
+#Docker

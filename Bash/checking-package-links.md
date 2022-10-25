@@ -19,3 +19,5 @@ lrwxr-xr-x   1 goffley  staff    58 May 12 10:43 redux -> ../../../node_modules/
 The `->` denotes a symbolic link from the package to the left of the symbol pointing to the package in the right.
 
 This is useful in a workspace like repo, where you're using something like [pnpm](https://pnpm.io/) to manage your package but still store your packages in one place with sym links in other packages.
+
+#bash

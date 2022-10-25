@@ -19,3 +19,5 @@ __Append to file__
 ```bash
 cat some text >> sampleTxt.txt
 ```
+
+#bash
