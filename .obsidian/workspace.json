@@ -16,8 +16,17 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "763d06f6a193b51a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +147,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "57f0768db22a22ea",
+  "active": "763d06f6a193b51a",
   "lastOpenFiles": [
     "HTML/html5-input-type-datepicker.md",
     "HTML/Table Of Contents HTML.md",
