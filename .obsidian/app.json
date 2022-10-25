@@ -3,5 +3,6 @@
   "defaultViewMode": "preview",
   "spellcheck": true,
   "showInlineTitle": false,
-  "livePreview": false
+  "livePreview": false,
+  "trashOption": "none"
 }

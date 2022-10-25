@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "82105e3f639e5d34",
+        "id": "b885409dbac3214d",
         "type": "tabs",
         "children": [
           {
-            "id": "9afa12bfa6f02712",
+            "id": "3e9b8b3181e22c4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interpreters/lexical-analysis.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -105,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interpreters/lexical-analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,17 +120,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9afa12bfa6f02712",
+  "active": "3e9b8b3181e22c4f",
   "lastOpenFiles": [
-    "Interpreters/Table Of Contents Interpreters.md",
-    "Interpreters/lexical-analysis.md",
     "JavaScript/Table Of Contents JavaScript.md",
-    "Table Of Contents til.md",
-    "AWS/Table Of Contents AWS.md",
-    "til.md",
-    "Bash/Table Of Contents Bash.md",
-    "Docker/Table Of Contents Docker.md",
-    "Git/Table Of Contents Git.md",
-    "General Tools/Tailwind CSS/Table Of Contents Tailwind CSS.md"
+    "excalibrain.md",
+    "System Design/System Design.md",
+    "Python/Pandas/Pandas.md",
+    "Python/Python.md",
+    "Programming Language Facts/Programming Language Facts.md",
+    "Problem Solving Processes/Problem Solving Processes.md",
+    "Postgress/Postgress.md",
+    "Misc/Misc.md",
+    "Math/Math.md"
   ]
 }
