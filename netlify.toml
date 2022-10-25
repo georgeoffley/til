@@ -6,7 +6,7 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "Click to steal some👆"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "I have nothing but intelligence."
+LANDING_DESCRIPTION = "Where I record everything I learn!"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "./README.md"
 # (Optional) Site title on landing page
@@ -21,7 +21,7 @@ SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
 SITE_URL = "https://george-offley-til.netlify.app"
 # (Optional) Site Timezone
-TIMEZONE = "Asia/Hong_Kong"
+TIMEZONE = ""
 ZOLA_VERSION = "0.15.2"
 # (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
 SORT_BY = "title"
