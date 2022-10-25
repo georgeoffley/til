@@ -8,37 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8052600e2f2b6a55",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "fd3d47e8f467d4d8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c2fb7fad766973bf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "34a91d33dcb3c036",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "6c4fc3a32d0d76a9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3d8d23c84921ee0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b2f553aefc381fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/system-design-interview-thought-process.md",
-                "mode": "source",
+                "file": "Table Of Contents til.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -74,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design/system-design-interview-thought-process.md",
+                "file": "Table Of Contents til.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +141,22 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "39393f983096bcc1",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "1461e247cc30398e",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
             }
           }
         ]
@@ -151,17 +169,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "34a91d33dcb3c036",
+  "active": "3b2f553aefc381fd",
   "lastOpenFiles": [
-    "Python/with-statement-python.md",
-    "Python/try-except-else-finally-in-python.md",
-    "Python/higher-order-functions-in-python.md",
-    "Python/decorators-in-python.md",
-    "Python/connecting-to-mongodb-using-python.md",
-    "Python/Pandas/sorting-values-by-column-in-pandas.md",
-    "Python/Pandas/reading-csv-data-sets-using-pandas.md",
-    "Programming Language Facts/statistically-typed-vs-dynamically-typed-languages.md",
-    "Problem Solving Processes/05-03-2022-fixing-errors-in-fable-project-in-vscode.md",
-    "Problem Solving Processes/05-03-2022-finding-antialiasing-default-config-in-fable-engine.md"
+    "AWS/Table Of Contents AWS.md",
+    "til.md",
+    "Bash/Table Of Contents Bash.md",
+    "Docker/Table Of Contents Docker.md",
+    "Git/Table Of Contents Git.md",
+    "General Tools/Tailwind CSS/Table Of Contents Tailwind CSS.md",
+    "General Tools/swyxkit/Table Of Contents swyxkit.md",
+    "General Tools/Retool/Table Of Contents Retool.md",
+    "General Tools/Direnv/Table Of Contents Direnv.md",
+    "Git/ Table Of ContentsGit.md"
   ]
 }
