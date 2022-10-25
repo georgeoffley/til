@@ -18,7 +18,6 @@
 -  [[JavaScript/formatting-numbers-for-commas-in-the-thousandth-place|formatting-numbers-for-commas-in-the-thousandth-place]]
 -  [[JavaScript/includes-method|includes-method]]
 -  [[JavaScript/inequality-operator-in-javascript|inequality-operator-in-javascript]]
--  [[JavaScript/JavaScript|JavaScript]]
 -  [[JavaScript/let-const-var-differences-in-js|let-const-var-differences-in-js]]
 -  [[JavaScript/localstorage-in-browsers|localstorage-in-browsers]]
 -  [[JavaScript/logical-operators-in-javascript|logical-operators-in-javascript]]

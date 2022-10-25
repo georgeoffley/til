@@ -11,7 +11,6 @@
 -  [[JavaScript/React/fragments-in-react|fragments-in-react]]
 -  [[JavaScript/React/organizing-component-abstractions|organizing-component-abstractions]]
 -  [[JavaScript/React/prop-defaults|prop-defaults]]
--  [[JavaScript/React/React|React]]
 -  [[JavaScript/React/Redux/Table Of Contents Redux|Table Of Contents Redux]]
 -  [[JavaScript/React/rendering-jsx-using-react-dom|rendering-jsx-using-react-dom]]
 -  [[JavaScript/React/state-updateing-console-log|state-updateing-console-log]]
