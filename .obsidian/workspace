@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bash/checking-website-latency-and-recording.md",
+            "file": "Docker/build-docker-images.md",
             "mode": "preview",
             "backlinks": true
           }
@@ -47,6 +47,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "745fc52e70eb124e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -91,15 +99,15 @@
   },
   "active": "b7af6261b903a98b",
   "lastOpenFiles": [
+    "Docker/build-docker-images.md",
+    "Docker/docker-run-command.md",
+    "Bash/referencing-files-with-spaces-in-name.md",
+    "Bash/finding-files-by-size.md",
     "Bash/checking-website-latency-and-recording.md",
     "Bash/checking-package-links.md",
     "AWS/check-rds-instances-aws-cli.md",
-    "Bash/referencing-files-with-spaces-in-name.md",
     "Bash/finding-text-inside-a-text-file.md",
     "Bash/finding-files-by-permission-type.md",
-    "Git/git-stash-workflow.md",
-    "Git/git-rebasing.md",
-    "Git/cherry-picking.md",
-    "Docker/multi-build-stages.md"
+    "Git/git-stash-workflow.md"
   ]
 }
