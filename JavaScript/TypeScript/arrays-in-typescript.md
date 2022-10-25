@@ -24,3 +24,6 @@ const moreNumbers: Array<number> = [];
 ```
 
 You need to make sure you're assigning the value in the first line. Like we have it above.
+
+#JavaScript
+	#TypeScript

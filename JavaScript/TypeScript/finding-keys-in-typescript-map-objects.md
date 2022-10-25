@@ -16,3 +16,6 @@ numbers.set(15, 46);
 numbers.has(15); // Returns true
 numbers.has(22); // Returns false
 ```
+
+#JavaScript
+	#TypeScript

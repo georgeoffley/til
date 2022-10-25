@@ -13,3 +13,7 @@ You then need to make sure to fill out variables when you import them into the a
 Then you are able to use things like `additionalScope` when triggering queries.
 
 ![Using additionalScope in tigger functions](../../images/additional-scope-retool.png)
+
+
+#GeneralTools 
+	#Retool 

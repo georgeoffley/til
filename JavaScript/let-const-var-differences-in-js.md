@@ -53,3 +53,5 @@ const greeting = {
 // Can be updated using
 greeting.message = "say Hello instead";
 ```
+
+#JavaScript

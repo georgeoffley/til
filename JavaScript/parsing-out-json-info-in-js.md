@@ -12,3 +12,5 @@ alert(obj.name); // Outputs: Peter
 alert(obj.age); // Outputs: 22
 alert(obj.country); // Outputs: United States
 ```
+
+#JavaScript

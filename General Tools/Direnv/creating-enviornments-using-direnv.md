@@ -59,3 +59,6 @@ There's really no limit to what you can do to make your development environment 
 ### Notes
 
 Great project, but very Linux specific. I was not able to get it working in Windows unless I created the project and ran everything in the Windows Linux Subsystem. Or use a Mac.
+
+#GeneralTools 
+	#Direnv

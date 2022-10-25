@@ -64,3 +64,5 @@ fetch('https://pokeapi.co/api/v2/pokemon/ditto')
 ```
 
 In the above case we get the response promise object, `res`, convert it to JSON using the `.json()` function, then chain another `.then` which takes in the `data` and then logs that for us.
+
+#JavaScript

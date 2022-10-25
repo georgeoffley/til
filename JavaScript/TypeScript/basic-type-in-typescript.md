@@ -18,3 +18,6 @@ function greet({ greeting, name }: Salutation): string {
   return `${greeting}, ${name}`;
 }
 ```
+
+#JavaScript
+	#TypeScript

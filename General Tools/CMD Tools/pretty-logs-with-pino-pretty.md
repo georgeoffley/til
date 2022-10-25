@@ -11,3 +11,6 @@ You use the tool buy appending any command with ` | pino-pretty`. With a space, 
 ```bash
 pnpm api | pino-pretty
 ```
+
+#GeneralTools 
+	#CMDTools

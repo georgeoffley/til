@@ -31,3 +31,6 @@ console.log(admin);
   lastName: "Bar"
 }
 ```
+
+#JavaScript
+	#TypeScript

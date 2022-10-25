@@ -24,3 +24,6 @@ tsc index.js --declaration --emitDeclarationOnly
 # Emit a single .js file from two files via compiler options which take string arguments
 tsc app.ts util.ts --target esnext --outfile index.js
 ```
+
+#JavaScript
+	#TypeScript

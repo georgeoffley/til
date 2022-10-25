@@ -35,3 +35,5 @@ ReactDOM.render(
 
 The above snippet will take in our `page` object, and the HTML selector as arguments, and use the `page` object to render HTML on the selector argument.
 
+#JavaScript
+	#React

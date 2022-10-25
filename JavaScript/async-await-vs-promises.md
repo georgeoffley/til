@@ -51,3 +51,5 @@ const userSearch = async () => {
 // Returns the query data
 return userSearch
 ```
+
+#JavaScript

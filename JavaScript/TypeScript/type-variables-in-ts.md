@@ -29,3 +29,6 @@ let output = identity<string>("This is a string return");
 ```
 
 Which explicitely passes in the return type using the `<>` angle brackets. The first solution is cleaner but for more complicated cases this might be better to go with.
+
+#JavaScript
+	#TypeScript

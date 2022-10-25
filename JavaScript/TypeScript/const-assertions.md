@@ -22,3 +22,6 @@ console.log(typeof MaskModesList.add);
 ```
 
 TS will look at `ModesList` and infer the closest type. In this case the `ModeKeys` and the `Mode` types
+
+#JavaScript
+	#TypeScript

@@ -8,3 +8,6 @@ When you want to create a post you need to do the following:
 2. Create a new issue.
 3. The issue is your blog post. It's all markdown so it should be set already to just enter in your post.
 4. Apply the `Published` tag to the issue so that it will be published on the site.
+
+#GeneralTools 
+	#Swyxkit

@@ -14,3 +14,5 @@ stash@{0}: On george/fab-2738-remove-beta-messaging-on-the-lottie: note1
 stash@{1}: WIP on george/fab-2738-remove-beta-messaging-on-the-lottie: note2
 ```
 3. Check out the list and when you locate the one you need run `git stash apply stash@{0}` to restore your work. The `stash@{0}` is the name of the stash you are applying.
+
+#Git 

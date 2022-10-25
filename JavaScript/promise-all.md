@@ -37,3 +37,5 @@ async function main() {
 ```
 
 If one of the promises rejects it will add in the value of the rejection into the array position regardless of if the other promises reject or not.
+
+#JavaScript

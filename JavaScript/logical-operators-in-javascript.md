@@ -27,3 +27,5 @@ console.log(a > 0 || b > 0);
 ```
 
 [Source](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR)
+
+#JavaScript

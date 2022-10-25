@@ -40,3 +40,6 @@ ReactDOM.render(
 ```
 
 Here above is where the actual `ReactDOM.render()` function is which renders our application. This is where we import our `<App />` component and do all the rendering. 
+
+#JavaScript
+	#React

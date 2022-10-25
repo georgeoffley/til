@@ -31,3 +31,6 @@ const page = (
 The above shows the blank fragment syntax which can act as a parent element without adding anymore elements into our page.
 
 Another alternative is using a `<div>` to nest the elements but this can create problems of our own as you now have an extra `<div>` element.
+
+#JavaScript
+	#React

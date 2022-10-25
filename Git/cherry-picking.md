@@ -13,3 +13,5 @@ git cherry-pick -x ##### # The commit hash of the merged PR
 
 git push origin "$(git branch --show-current)"
 ```
+
+#Git

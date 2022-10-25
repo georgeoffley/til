@@ -28,3 +28,5 @@ The above creates a Model interface which uses a generic for the value type.
 
 We can take advantage of this when we create new instances of this interface by using `Model<string>`. In the above case a string.
 
+#JavaScript
+	#TypeScript

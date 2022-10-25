@@ -13,3 +13,6 @@ function greet(greeting: string; name: string = 'George'): string {
 
 // Returns: Hello, George
 ```
+
+#JavaScript
+	#TypeScript

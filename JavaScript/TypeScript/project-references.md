@@ -24,3 +24,6 @@ Example code in the `tsconfig.json` file.
     ]
 }
 ```
+
+#JavaScript
+	#TypeScript

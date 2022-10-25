@@ -15,3 +15,6 @@ const dispatch = useDispatch();
 ```
 
 This is using a home spun hook. Generally, you would call the dispatch function using `store.dispatch()` as `dispatch()` is a built in function. 
+
+#JavaScript
+	#React

@@ -32,3 +32,6 @@ When I started I first set up my development environment by cloning the project 
 If you open a project with a `.vscode` directory at the root, VSCode will apply those workspace settings and prompt you to install any suggested extensions.
 
 I did that and all the underlined errors went away.
+
+
+#ProblemSolving

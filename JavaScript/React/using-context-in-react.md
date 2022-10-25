@@ -71,3 +71,5 @@ In the above example we use the `createContext` React hook to create an instance
 
 - `useContext` - Accepts a context object (value from `createContext` hook) and returns the current context value for that context.
 - `createContext` - Created a context object. React will read the current context matching the `Provider` above it in the tree when rendering.
+#JavaScript
+	#React

@@ -11,3 +11,6 @@ npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
 ```
 
 What that does is take in the root CSS file in the argument after the `-i` flag, compiles the CSS, and drops the compiled CSS into the output file named after the `-o` flag. This CSS file is then imported into the project like a normal CSS file. 
+
+#GeneralTools 
+	#TailWindCss 

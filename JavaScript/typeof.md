@@ -12,3 +12,5 @@ let n: typeof s;
    
 let n: string
 ```
+
+#JavaScript

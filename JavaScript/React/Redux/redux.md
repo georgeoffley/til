@@ -7,3 +7,7 @@ Sources:
 Redux is a library used within react to store information about the app's state.
 
 It is a single source of truth for all the data in an app. 
+
+#JavaScript
+	#React
+		#redux

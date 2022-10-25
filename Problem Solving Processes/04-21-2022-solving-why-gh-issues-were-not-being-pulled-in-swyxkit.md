@@ -58,3 +58,5 @@ The error I was seeing was that despite going through the set up I was not able 
 In addition to making sure the site is deployed correctly, hooked up to the right GitHub repo, has all the needed site config info, has an access token; You also have to make sure that your issues are created with the `Published` tag and you need to be included in the `allowedPosters` array in the `src/lib/content.js`. 
 
 I submitted a [PR](https://github.com/sw-yx/swyxkit/pull/55) to change it to an imported setting in the `siteConfig.js` so that we don't have to update it in the source.
+
+#ProblemSolving

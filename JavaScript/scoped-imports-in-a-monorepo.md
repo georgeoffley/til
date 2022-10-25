@@ -24,3 +24,6 @@ import { ... } from '@fable/admin';
 ```
 
 This also means you have the name set in the package's `package.json` file to `"name": "fable/admin"`.
+
+
+#JavaScript

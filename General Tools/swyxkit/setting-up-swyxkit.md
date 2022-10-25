@@ -10,3 +10,6 @@ When creating a new blog using swyxkit there are some steps needed when deployin
 4. Set up the Netlify site, and choose the repo you just created.
 5. Also make sure to create a personal GitHub Access Token and add it to the Netlify site under the `GH_TOKEN` evironment variable.
 6. Until I update the code, you also want to make sure that you update the `allowedPosters` variable in the `content.js` file so the site will pick up the issues you create.
+
+#GeneralTools 
+	#Swyxkit 

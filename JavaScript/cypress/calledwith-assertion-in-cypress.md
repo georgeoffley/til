@@ -16,3 +16,6 @@ cy.get('@windowOpen').should(
 ```
 
 This is used to check that the next called function is called with the word “academy” in it.
+
+#JavaScript
+	#Cypress

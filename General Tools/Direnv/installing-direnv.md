@@ -11,3 +11,6 @@ The above link brings you to the instructions to do this, however I find it easi
 So for example, on a mac just using ZSH you can run the below command:
 
 `echo 'eval "$(direnv hook zsh)"' >> ~/.zshrc`
+
+#GeneralTools 
+	#Direnv 

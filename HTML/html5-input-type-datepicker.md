@@ -32,3 +32,5 @@ The above outlines a React component, which utilizes HTML5's input tag to create
 Also offers events such as `change` and `input`.
 
 Gracefully downgrades to a textbox when not compatible.
+
+#HTML

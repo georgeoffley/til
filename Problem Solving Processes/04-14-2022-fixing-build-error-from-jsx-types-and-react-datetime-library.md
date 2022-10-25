@@ -64,3 +64,5 @@ The solution was to add the following to our `package.json` file.
 According to the answer given, this block will specify strict restrictions for dependencies of dependencies. The react it's needed is because `@types/react-dom` with a dependency of `@types/react`. Some packages might need to also import these dependencies and these are called "nested packages". 
 
 If you import two different libraries which have the same dependency but a different version number than it is possible for those versions to be overwritten, which would cause problems. If a nested dependency is being resolved by yarn and that dependency is in the `resolutions` block yarn will look at that version number. [See here for a better explanation](https://github.com/yarnpkg/rfcs/blob/master/implemented/0000-selective-versions-resolutions.md). [You can also check this out as well which links to the previous resource](https://classic.yarnpkg.com/lang/en/docs/selective-version-resolutions/).
+
+#ProblemSolving

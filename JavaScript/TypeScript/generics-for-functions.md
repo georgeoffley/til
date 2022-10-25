@@ -42,3 +42,6 @@ In the above we have a standard interface with an ID and Name.
 We use a generic `<T>` since we do not know what we'll get back and we want ot be able to use this for model object.
 
 Using a generic will give us the flexibility to use this with other resourcesm but still have access to the underlying properties for type hinting and auto completion. 
+
+#JavaScript
+	#TypeScript

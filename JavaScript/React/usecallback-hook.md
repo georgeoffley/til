@@ -18,3 +18,6 @@ const memoizedCallback = useCallback(
   [a, b], // <= won't run again unless these deps are changed
 );
 ```
+
+#JavaScript
+	#React

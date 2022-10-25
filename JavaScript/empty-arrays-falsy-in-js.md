@@ -48,3 +48,5 @@ Everything else is **truthy**. That includes:
 - `[]` (an empty array)
 - `{}` (an empty object)
 - `function(){}` (an “empty” function)
+
+#JavaScript

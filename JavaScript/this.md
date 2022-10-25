@@ -17,3 +17,6 @@ const test = {
 console.log(test.func());
 // expected output: 42
 ```
+
+
+#JavaScript

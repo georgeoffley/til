@@ -22,3 +22,6 @@ export const MaskModesList: Record<ModeKeys, Modes> = {
 The above does some cool stuff in that we designate the types for the values as a union type in `Modes`. Where the types could be any of the strings given. Same with the `ModeKeys`.
 
 The `ModeKeys` and `Modes` can only be those strings.
+
+#JavaScript
+	#TypeScript

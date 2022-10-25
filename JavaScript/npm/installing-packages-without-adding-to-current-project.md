@@ -9,3 +9,6 @@ You can avoid this by appending a `-g` to the end of the install command. So for
 ```bash
 npm install pino-pretty -g
 ```
+
+#JavaScript
+	#npm

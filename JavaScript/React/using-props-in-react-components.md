@@ -46,3 +46,6 @@ class Footer extends React.Component {
 ```
 
 The above would use `this.props.attribute` to reference a passed in prop as the keyword `this` refers to the current class instance.
+
+#JavaScript
+	#React

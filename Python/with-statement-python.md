@@ -40,3 +40,5 @@ class FileWriter:
 ```
 
 The above function defines the `FileWriter` function and also creates the `__enter__()` and `__exit__()` functions that have construction logic and deconstruction logic.
+
+#Python

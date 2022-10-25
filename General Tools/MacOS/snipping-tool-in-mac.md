@@ -19,3 +19,6 @@ Becuase I use a four quadrant screen workflow, I could also take advantage of us
 `Command + Ctrl + Shift + 4 + Spacebar`
 
 This brings up a prompt to take a picture of any of the application windows that are up.
+
+#GeneralTools 
+	#MacOS

@@ -16,3 +16,6 @@ myPet = pet('Vivie');
 
 myPet();                     // Returns "Vivie"
 ```
+
+
+#JavaScript

@@ -30,3 +30,6 @@ function greet({ greeting, name }: { greeting: string; name: string }): string {
   return `${greeting}, ${name}`;
 }
 ```
+
+#JavaScript
+	#TypeScript

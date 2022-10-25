@@ -45,3 +45,5 @@ When you return a promise object from a function, you get a `Promise<pending>` s
 You need to use an `await` keyword and save it to a variable. 
 
 Then you need to use a `.then()` chain with the returned `data` argument which is your fullfilled promise (your data).
+
+#JavaScript

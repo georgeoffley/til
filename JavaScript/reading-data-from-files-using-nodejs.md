@@ -23,3 +23,5 @@ export async function openFile(dir: string): Promise<string> {
     }
 }
 ```
+
+#JavaScript

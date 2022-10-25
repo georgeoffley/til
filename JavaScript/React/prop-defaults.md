@@ -35,3 +35,6 @@ const RoundedImg = ({ src, borderRadius = "50%" }: ImgProps) => {
     ///
 };
 ```
+
+#JavaScript
+	#React

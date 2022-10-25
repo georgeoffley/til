@@ -27,3 +27,4 @@ The above illustrates creating a connection, setting a record object, and then r
 
 Mongo creates a lazy connection as nothing happens with the database until a record is inserted. 
 
+#Python

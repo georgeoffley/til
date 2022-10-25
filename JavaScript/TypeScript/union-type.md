@@ -11,3 +11,6 @@ type jim: string | number;
 ```
 
 So the above will allow us to make a variable with the type `jim` which is either a number or a number.
+
+#JavaScript
+	#TypeScript

@@ -40,3 +40,6 @@ module.exports = {
 ### Using the Colors
 
 Using the custom colors is as simple as adding in the literal name. So going off the example above to change the colors of the text you'd use `text-white` for a class name. Same for say the background, which would be `bg-white`.
+
+#GeneralTools 
+	#TailWindCss 

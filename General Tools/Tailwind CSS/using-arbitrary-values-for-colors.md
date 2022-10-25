@@ -13,3 +13,6 @@ You can use this for color based tags like font or background color.
 The above is the class. You add in the prefix for whatever it is, background or text, a dash, and square brackets with the Hex value.
 
 [More notes](https://tailwindcss.com/docs/adding-custom-styles#using-arbitrary-values)
+
+#GeneralTools 
+	#TailWindCss 

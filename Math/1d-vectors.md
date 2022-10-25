@@ -15,3 +15,5 @@ Something like `(3 - 1)` can be a vector as we're looking for the distance. So a
 ## Addition
 
 Same thing for addition. If we're at position `3` and then we add `1` we take our vector at space `3` and add one more space. Getting `4`.
+
+#Math

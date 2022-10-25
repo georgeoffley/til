@@ -37,3 +37,5 @@ Async is a special keyword in JS which you put before the function. This will ma
 The function execution pauses on the line with an `await`. It only restarts when the result object comes back. This does not cost CPU cycles as JS can do other things while this waits for the response back.
 
 `Await` can __only__ be used in an `async` function and will throw and error if applied anywhere else.
+
+#JavaScript

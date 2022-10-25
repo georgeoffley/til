@@ -11,3 +11,6 @@ yarn workspace awesome-package add react react-dom --dev
 ```
 
 This will install those two packages in your `packages/awesome-package.json`.
+
+#JavaScript
+	#Yarn

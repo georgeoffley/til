@@ -32,3 +32,6 @@ function App() {
 ```
 
 The wrapper function takes in props and can print the `props.children` attribute from the `props` object.
+
+#JavaScript
+	#React

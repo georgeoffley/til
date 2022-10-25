@@ -39,3 +39,6 @@ ReactDOM.render(
 The above example outlines a `MainContent` component and a `Page` Component. You can see that the `MainContent` component is nested in the `Page` component. Making the `Page` component a parent to the `MainContent` component.
 
 And to properly order everything you only pass in the `Page` component to the render call. Which will render everything and the code gets to be neat and organized.
+
+#JavaScript
+	#React

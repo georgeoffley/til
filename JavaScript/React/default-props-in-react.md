@@ -48,3 +48,6 @@ class Card extends React.Component {
     }
 }
 ```
+
+#JavaScript
+	#React

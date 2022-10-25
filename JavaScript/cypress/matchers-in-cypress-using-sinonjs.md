@@ -16,3 +16,6 @@ cy.get('@windowOpen').should(
 Matchers can be passed as args to `spy.calledOn`,  `spy.calledWith`,  `spy.returned` and the corresponding `sinon.assert` functions as well as `spy.withArgs`.
 
 There are bunch more too. This can be used not only for matching words but also regex and types. As well as functions.
+
+#JavaScript
+	#Cypress

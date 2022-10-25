@@ -17,3 +17,6 @@ For example, we can run code when a component is created and starting the `Mount
 For this example, we’re overriding the `componentDidMount()` method which will fire when a component “mounts” correctly.
 
 Full docs for react component object: [https://reactjs.org/docs/react-component.html](https://reactjs.org/docs/react-component.html)
+
+#JavaScript
+	#React

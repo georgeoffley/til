@@ -16,3 +16,5 @@ o = {
 }
 // Evaluateds to {'foo':'hello'}
 ```
+
+#JavaScript

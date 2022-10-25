@@ -13,3 +13,6 @@ df.sort_values(by=['column'], ascending=false)
 Here you pass in the columns you want to sort by. 
 
 You can also add in if you want ascending or descending.
+
+#Python
+	#Pandas
