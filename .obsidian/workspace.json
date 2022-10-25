@@ -10,15 +10,13 @@
           {
             "id": "0011417a7bd19732",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "juggl_view",
-              "state": {},
-              "pinned": true
+              "state": {}
             }
           },
           {
-            "id": "fddeafca88ee7ca7",
+            "id": "a532096635121bcc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -149,7 +147,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fddeafca88ee7ca7",
+  "active": "a532096635121bcc",
   "lastOpenFiles": [
     "HTML/html5-input-type-datepicker.md",
     "HTML/Table Of Contents HTML.md",
