@@ -2,5 +2,6 @@
   "promptDelete": false,
   "defaultViewMode": "preview",
   "spellcheck": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "livePreview": false
 }

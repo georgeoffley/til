@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "19287490513471b1",
+        "id": "82105e3f639e5d34",
         "type": "tabs",
         "children": [
           {
-            "id": "34a91d33dcb3c036",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "6c4fc3a32d0d76a9",
+            "id": "9afa12bfa6f02712",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "e3d8d23c84921ee0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3b2f553aefc381fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Table Of Contents til.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Table Of Contents til.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,22 +108,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "39393f983096bcc1",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "1461e247cc30398e",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
             }
           }
         ]
@@ -169,8 +120,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3b2f553aefc381fd",
+  "active": "9afa12bfa6f02712",
   "lastOpenFiles": [
+    "JavaScript/Table Of Contents JavaScript.md",
+    "Table Of Contents til.md",
     "AWS/Table Of Contents AWS.md",
     "til.md",
     "Bash/Table Of Contents Bash.md",
@@ -178,8 +131,6 @@
     "Git/Table Of Contents Git.md",
     "General Tools/Tailwind CSS/Table Of Contents Tailwind CSS.md",
     "General Tools/swyxkit/Table Of Contents swyxkit.md",
-    "General Tools/Retool/Table Of Contents Retool.md",
-    "General Tools/Direnv/Table Of Contents Direnv.md",
-    "Git/ Table Of ContentsGit.md"
+    "General Tools/Retool/Table Of Contents Retool.md"
   ]
 }
