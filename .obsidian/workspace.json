@@ -16,8 +16,19 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "fddeafca88ee7ca7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,17 +149,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0011417a7bd19732",
+  "active": "fddeafca88ee7ca7",
   "lastOpenFiles": [
+    "HTML/html5-input-type-datepicker.md",
+    "HTML/Table Of Contents HTML.md",
+    "images/additional-scope-retool.png",
     "JavaScript/Table Of Contents JavaScript.md",
     "excalibrain.md",
     "System Design/System Design.md",
     "Python/Pandas/Pandas.md",
     "Python/Python.md",
     "Programming Language Facts/Programming Language Facts.md",
-    "Problem Solving Processes/Problem Solving Processes.md",
-    "Postgress/Postgress.md",
-    "Misc/Misc.md",
-    "Math/Math.md"
+    "Problem Solving Processes/Problem Solving Processes.md"
   ]
 }

@@ -104,7 +104,7 @@ const isInSpecificFolder = (settings, indexFilePath, folderType) => {
 };
 
 const DEFAULT_SETTINGS = {
-    indexPrefix: '_Index_of_',
+    indexPrefix: 'Table Of Contents ',
     indexItemStyle: IndexItemStyle.PureLink,
     indexTagValue: 'MOC',
     indexTagBoolean: true,
