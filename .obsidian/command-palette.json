@@ -3,6 +3,7 @@
     "app:go-back",
     "app:go-forward",
     "editor:save-file",
-    "markdown:toggle-preview"
+    "markdown:toggle-preview",
+    "obsidian-mind-map:app:markmap-preview"
   ]
 }

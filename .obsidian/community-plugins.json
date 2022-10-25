@@ -4,5 +4,10 @@
   "code-block-copy",
   "better-word-count",
   "obsidian-linter",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-admonition",
+  "dataview",
+  "excalibrain",
+  "obsidian-excalidraw-plugin",
+  "obsidian-enhancing-mindmap"
 ]
