@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3c4cf0210f034d98",
+        "id": "c919e25fba24c99c",
         "type": "tabs",
         "children": [
           {
-            "id": "0011417a7bd19732",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "a532096635121bcc",
+            "id": "57f0768db22a22ea",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,8 +17,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +138,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a532096635121bcc",
+  "active": "57f0768db22a22ea",
   "lastOpenFiles": [
     "HTML/html5-input-type-datepicker.md",
     "HTML/Table Of Contents HTML.md",
