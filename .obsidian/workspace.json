@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b885409dbac3214d",
+        "id": "3c4cf0210f034d98",
         "type": "tabs",
         "children": [
           {
-            "id": "3e9b8b3181e22c4f",
+            "id": "0011417a7bd19732",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -109,6 +111,22 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "a2ff7d5692805baf",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "beb01ce7a2f671e9",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
         ]
       }
@@ -120,7 +138,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3e9b8b3181e22c4f",
+  "active": "0011417a7bd19732",
   "lastOpenFiles": [
     "JavaScript/Table Of Contents JavaScript.md",
     "excalibrain.md",
