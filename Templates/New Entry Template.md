@@ -19,7 +19,3 @@ codeHere():
 
 
 #tagshere
----
-tags:
-	- tag1
----
