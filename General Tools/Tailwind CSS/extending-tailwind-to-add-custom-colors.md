@@ -43,3 +43,4 @@ Using the custom colors is as simple as adding in the literal name. So going off
 
 #GeneralTools 
 	#TailWindCss 
+	#CSS 

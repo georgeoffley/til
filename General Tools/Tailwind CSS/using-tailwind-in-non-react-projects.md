@@ -14,3 +14,4 @@ What that does is take in the root CSS file in the argument after the `-i` flag,
 
 #GeneralTools 
 	#TailWindCss 
+	#CSS 

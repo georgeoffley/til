@@ -8,21 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "57f0768db22a22ea",
+            "id": "a28fc817218738a9",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
+              "type": "markdown",
+              "state": {
+                "file": "General Tools/Tailwind CSS/using-tailwind-in-non-react-projects.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           },
           {
-            "id": "763d06f6a193b51a",
+            "id": "7538d0406f08c482",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "General Tools/Sequelize/basic-cli-migrations-setup.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ],
@@ -111,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "General Tools/Sequelize/basic-cli-migrations-setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,17 +156,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "763d06f6a193b51a",
+  "active": "7538d0406f08c482",
   "lastOpenFiles": [
-    "HTML/html5-input-type-datepicker.md",
-    "HTML/Table Of Contents HTML.md",
-    "images/additional-scope-retool.png",
-    "JavaScript/Table Of Contents JavaScript.md",
-    "excalibrain.md",
-    "System Design/System Design.md",
-    "Python/Pandas/Pandas.md",
-    "Python/Python.md",
-    "Programming Language Facts/Programming Language Facts.md",
-    "Problem Solving Processes/Problem Solving Processes.md"
+    "General Tools/Tailwind CSS/using-tailwind-in-non-react-projects.md",
+    "General Tools/Tailwind CSS/using-arbitrary-values-for-colors.md",
+    "General Tools/Tailwind CSS/Table Of Contents Tailwind CSS.md",
+    "General Tools/Tailwind CSS/extending-tailwind-to-add-custom-colors.md",
+    "General Tools/Tailwind CSS/basic-tailwind-uasge.md",
+    "JavaScript/TypeScript/basic-type-in-typescript.md",
+    "Problem Solving Processes/04-14-2022-fixing-build-error-from-jsx-types-and-react-datetime-library.md",
+    "General Tools/Terraform/basic-terraform-setup.md",
+    "General Tools/Terraform/basic-terraform-commans.md",
+    "HTML/html5-input-type-datepicker.md"
   ]
 }

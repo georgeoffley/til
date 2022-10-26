@@ -18,5 +18,5 @@ export default function MainContent() {
 From the above `py-14` is space separated from `px-7`.
 
 #GeneralTools 
-	#TailWindCss
-	
+#TailWindCss
+#CSS

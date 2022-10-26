@@ -4,5 +4,6 @@
   "spellcheck": true,
   "showInlineTitle": false,
   "livePreview": false,
-  "trashOption": "none"
+  "trashOption": "none",
+  "alwaysUpdateLinks": true
 }
