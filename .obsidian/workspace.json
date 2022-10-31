@@ -8,19 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77b93f04409311e6",
+            "id": "b4c41c6044fd92e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/TypeScript/supressing-ts-errors-in-testing.md",
+                "file": "General Tools/MacOS/snipping-tool-in-mac.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f9e9d837bfe1847a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/returning-a-random-number-in-range.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "195e68576c0a234e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/geting-random-integers-with-math-library.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/TypeScript/supressing-ts-errors-in-testing.md",
+                "file": "JavaScript/geting-random-integers-with-math-library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,20 +166,17 @@
     "width": 237,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "77b93f04409311e6",
+  "active": "195e68576c0a234e",
   "lastOpenFiles": [
-    "JavaScript/TypeScript/project-references.md",
+    "JavaScript/returning-a-random-number-in-range.md",
+    "General Tools/MacOS/snipping-tool-in-mac.md",
+    "General Tools/Retool/using-variables-with-shared-queries.md",
+    "Git/git-ssh-cloning.md",
+    "Git/git-stash-workflow.md",
+    "General Tools/Retool/chart-data-formatting-in-retool.md",
+    "Git/scrolling-through-code-as-you-add-to-commit.md",
+    "Git/cherry-picking.md",
     "JavaScript/TypeScript/supressing-ts-errors-in-testing.md",
-    "Python/arbitrary-args-in-python.md",
-    "Python/string-formatting-in-python.md",
-    "C-Sharp/generics-in-c-sharp.md",
-    "Templates/New Entry Template.md",
-    "Python/default-args-in-python.md",
-    "JavaScript/finding-an-objects-properties.md",
-    "General Tools/Tailwind CSS/using-tailwind-in-non-react-projects.md",
-    "JavaScript/TypeScript/const-assertions.md"
+    "JavaScript/TypeScript/project-references.md"
   ]
 }

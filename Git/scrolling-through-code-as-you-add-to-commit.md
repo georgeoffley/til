@@ -12,6 +12,6 @@ git add -p
 The `-p` option lets you interactively look through the code. It essentially runs in interactive mode.
 
 ## Note
-Please note that this command should only be run when you've made changes to files that are already tracked in Git. This will not work with brand new files that have not bee committed before.
+Please note that this command should only be run when you've made changes to files that are already tracked in Git. This will not work with brand-new files that have not been committed before.
 
 #Git 

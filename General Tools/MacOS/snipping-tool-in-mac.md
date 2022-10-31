@@ -14,7 +14,7 @@ Now the really useful one is
 
 This will change your cursor to a crosshairs and you can snip the area of the screen you want, but this will copy it to your clipboard once you release the mouse button. 
 
-Becuase I use a four quadrant screen workflow, I could also take advantage of using
+Because I use a four quadrant screen workflow, I could also take advantage of using
 
 `Command + Ctrl + Shift + 4 + Spacebar`
 
