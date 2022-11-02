@@ -45,9 +45,35 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "76187b1f7cd01345",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bash/running-profile-scripts.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "da97c49f4ff9b025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/checking-aws-iam-role.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/geting-random-integers-with-math-library.md",
+                "file": "AWS/checking-aws-iam-role.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,8 +192,10 @@
     "width": 237,
     "collapsed": true
   },
-  "active": "195e68576c0a234e",
+  "active": "da97c49f4ff9b025",
   "lastOpenFiles": [
+    "Bash/running-profile-scripts.md",
+    "JavaScript/geting-random-integers-with-math-library.md",
     "JavaScript/returning-a-random-number-in-range.md",
     "General Tools/MacOS/snipping-tool-in-mac.md",
     "General Tools/Retool/using-variables-with-shared-queries.md",
@@ -175,8 +203,6 @@
     "Git/git-stash-workflow.md",
     "General Tools/Retool/chart-data-formatting-in-retool.md",
     "Git/scrolling-through-code-as-you-add-to-commit.md",
-    "Git/cherry-picking.md",
-    "JavaScript/TypeScript/supressing-ts-errors-in-testing.md",
-    "JavaScript/TypeScript/project-references.md"
+    "Git/cherry-picking.md"
   ]
 }
