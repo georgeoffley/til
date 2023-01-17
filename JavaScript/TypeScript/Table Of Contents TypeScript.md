@@ -13,6 +13,8 @@
 -  [[JavaScript/TypeScript/finding-keys-in-typescript-map-objects|finding-keys-in-typescript-map-objects]]
 -  [[JavaScript/TypeScript/generics-for-functions|generics-for-functions]]
 -  [[JavaScript/TypeScript/generics-for-interfaces|generics-for-interfaces]]
+-  [[JavaScript/TypeScript/JSDoc Notation for Types|JSDoc Notation for Types]]
+-  [[JavaScript/TypeScript/Optional Types JSDoc|Optional Types JSDoc]]
 -  [[JavaScript/TypeScript/optional-properties-in-ts-objects|optional-properties-in-ts-objects]]
 -  [[JavaScript/TypeScript/project-references|project-references]]
 -  [[JavaScript/TypeScript/record-type|record-type]]

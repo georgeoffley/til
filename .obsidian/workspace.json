@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b4bfffd37636b21a",
+        "id": "8b7f8f27f3165e8e",
         "type": "tabs",
         "children": [
           {
-            "id": "b4c41c6044fd92e1",
+            "id": "f59078eea8f3e965",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Tools/MacOS/snipping-tool-in-mac.md",
+                "file": "Problem Solving Processes/11-22-2022-figuring-out-the-weird-return.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "f9e9d837bfe1847a",
+            "id": "0eb18c824d488305",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/returning-a-random-number-in-range.md",
+                "file": "JavaScript/Destructuring Nested Objects.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "195e68576c0a234e",
+            "id": "ed4b15508f4753f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/geting-random-integers-with-math-library.md",
+                "file": "Problem Solving Processes/11-15-2022-figuring-out-multiple-id-issues.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "76187b1f7cd01345",
+            "id": "235266c1daff8acf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash/running-profile-scripts.md",
+                "file": "AWS/Codebuild/Codebuild - Listing AWS Codebuild Projects in AWS CLI.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -60,12 +60,77 @@
             }
           },
           {
-            "id": "da97c49f4ff9b025",
+            "id": "a00d1df7bcd665d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/checking-aws-iam-role.md",
+                "file": "Templates/New Entry Template.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b83bfff96b23ea0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unix/Terminal/Unix Terminal Profile Changes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "319d75f40434018b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unix/Terminal/Source Command in Terminal.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "eb9e9348f172966e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/STS/STS - Getting currently logged in AWS Profile.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c2b5d860be4e1dd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problem Solving Processes/11-02-2022-failing-builds.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ff00d84cc392b964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problem Solving Processes/04-14-2022-fixing-build-error-from-jsx-types-and-react-datetime-library.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -73,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -158,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/checking-aws-iam-role.md",
+                "file": "Problem Solving Processes/04-14-2022-fixing-build-error-from-jsx-types-and-react-datetime-library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,17 +271,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da97c49f4ff9b025",
+  "active": "caad4a5e50fdb569",
   "lastOpenFiles": [
-    "Bash/running-profile-scripts.md",
-    "JavaScript/geting-random-integers-with-math-library.md",
-    "JavaScript/returning-a-random-number-in-range.md",
-    "General Tools/MacOS/snipping-tool-in-mac.md",
-    "General Tools/Retool/using-variables-with-shared-queries.md",
-    "Git/git-ssh-cloning.md",
-    "Git/git-stash-workflow.md",
-    "General Tools/Retool/chart-data-formatting-in-retool.md",
-    "Git/scrolling-through-code-as-you-add-to-commit.md",
-    "Git/cherry-picking.md"
+    "Problem Solving Processes/Table Of Contents Problem Solving Processes.md",
+    "Problem Solving Processes/11-22-2022-figuring-out-the-weird-return.md",
+    "Problem Solving Processes/11-15-2022-figuring-out-multiple-id-issues.md",
+    "Problem Solving Processes/11-02-2022-failing-builds.md",
+    "Problem Solving Processes/11-02-2022-api-changes-not-working-locally.md",
+    "Problem Solving Processes/05-03-2022-fixing-errors-in-fable-project-in-vscode.md",
+    "Problem Solving Processes/05-03-2022-finding-antialiasing-default-config-in-a-graphics-engine.md",
+    "Problem Solving Processes/04-21-2022-solving-why-gh-issues-were-not-being-pulled-in-swyxkit.md",
+    "Problem Solving Processes/04-15-2022-adding-styles-to-react-datetime-library.md",
+    "Problem Solving Processes/04-14-2022-fixing-build-error-from-jsx-types-and-react-datetime-library.md"
   ]
 }

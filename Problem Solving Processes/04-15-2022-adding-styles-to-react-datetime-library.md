@@ -1,7 +1,7 @@
 # Adding Style to The React Datetime Library
 
 ### Project
-Combine
+Work Project
 
 ### Date
 04/15/2022
