@@ -4,141 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8b7f8f27f3165e8e",
+        "id": "208c7cb046814bad",
         "type": "tabs",
         "children": [
           {
-            "id": "f59078eea8f3e965",
+            "id": "187c81fd90b7202a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem Solving Processes/11-22-2022-figuring-out-the-weird-return.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0eb18c824d488305",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/Destructuring Nested Objects.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ed4b15508f4753f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problem Solving Processes/11-15-2022-figuring-out-multiple-id-issues.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "235266c1daff8acf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/Codebuild/Codebuild - Listing AWS Codebuild Projects in AWS CLI.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a00d1df7bcd665d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/New Entry Template.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b83bfff96b23ea0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unix/Terminal/Unix Terminal Profile Changes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "319d75f40434018b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unix/Terminal/Source Command in Terminal.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "eb9e9348f172966e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/STS/STS - Getting currently logged in AWS Profile.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c2b5d860be4e1dd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problem Solving Processes/11-02-2022-failing-builds.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ff00d84cc392b964",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problem Solving Processes/04-14-2022-fixing-build-error-from-jsx-types-and-react-datetime-library.md",
+                "file": "AWS/DynamoDB/Differences between CLI and SDK.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,6 +65,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c8a964f4ab824932",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -223,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem Solving Processes/04-14-2022-fixing-build-error-from-jsx-types-and-react-datetime-library.md",
+                "file": "AWS/DynamoDB/Differences between CLI and SDK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,8 +161,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "caad4a5e50fdb569",
+  "active": "187c81fd90b7202a",
   "lastOpenFiles": [
+    "AWS/DynamoDB/Table Of Contents DynamoDB.md",
+    "AWS/DynamoDB/Query Operation for DynamoDB Document Client Class.md",
+    "AWS/DynamoDB/Differences between CLI and SDK.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "AWS/check-rds-instances-aws-cli.md",
+    "AWS/checking-aws-iam-role.md",
+    "Differences between CLI and SDK.md",
+    "AWS/Codebuild/Table Of Contents Codebuild.md",
+    "AWS/Table Of Contents AWS.md",
+    "AWS/DynamoDB",
     "Problem Solving Processes/Table Of Contents Problem Solving Processes.md",
     "Problem Solving Processes/11-22-2022-figuring-out-the-weird-return.md",
     "Problem Solving Processes/11-15-2022-figuring-out-multiple-id-issues.md",
